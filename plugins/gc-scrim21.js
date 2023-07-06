@@ -5,9 +5,9 @@ throw false
 }
 let pesan = args.join` `
 let oi = `𝐂𝐔𝐏𝐈𝐓𝐎❤️•: ${pesan}`
-let teks = `╭┈┈ ๑👻๑ •• ${oi} ๑👻๑ ••:\n`
+let teks = `╭┈┈ •• ${oi} ••:\n`
 for (let mem of participants) {
-teks += `@${mem.id.split('@')[0]}❤️‍🔥`}
+teks += `@${mem.id.split('@')[0]}🔴`}
 teks += `ㅤ
 🔱 SCRIM 2 salas 🔱
 
