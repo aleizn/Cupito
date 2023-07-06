@@ -3,7 +3,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isP
 try {
 let pp = imagen6
 //let vn = './Plugins/Audios/menu.mp3'
-let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
+let img = await(await fetch('https://imgur.com/a/KEipZF9')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
@@ -19,11 +19,10 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+let str = `╭「➻❥𝐂𝐔𝐏𝐈𝐓𝐎❤️」
 │➯ *𝙷𝙾𝙻𝙰,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Aleizn
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51992621601
-│➯ *Yape: 914079837
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐂𝐔𝐏𝐈𝐓𝐎❤️
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/56998631537
 │➯ *ғᴇᴄʜᴀ:➟${date}
 │➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
